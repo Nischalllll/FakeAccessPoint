@@ -31,21 +31,6 @@
 - RestFulAPI 
 - and **more**!
 
-### Donation
-
-##### Patreon:
-
-[![patreon](https://img.shields.io/badge/donate-patreon-orange)](https://www.patreon.com/mh4x0f?fan_landing=true)
-
-
-##### paypal:
-
-[![donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PUPJEGHLJPFQL)
-
-##### Via BTC:
-
-1HBXz6XX3LcHqUnaca5HRqq6rPUmA3pf6f
-
 ## Supported platforms
 
 * **Python**: you need **Python 3.7 or later** to run Wp3.
@@ -60,16 +45,6 @@
 ## Installation & Documentation
 
 Learn more about using [wp3 on the official site!](https://wifipumpkin3.github.io)
-
-- [Getting Started](https://wifipumpkin3.github.io/docs/getting-started)
-- [Installation](https://wifipumpkin3.github.io/docs/getting-started#installation)
-
-## Contributing
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for how to help out.
-
-## community
-on discord: https://discord.gg/jywYskR
 
 ## License
 
