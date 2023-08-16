@@ -2,11 +2,6 @@
 
 **Powerful framework for rogue access point attack.**
 
-[![build status](https://github.com/mh4x0f/wifipumpkin3/workflows/Build/badge.svg)](https://github.com/mh4x0f/wifipumpkin3/actions)
-[![license](https://img.shields.io/badge/license-apache%202-orange)](https://github.com/mh4x0f/wifipumpkin3/blob/dev/LICENSE.md)
-[![code style](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black)
-
-
 ## Overview
 **wifipumpkin3** is powerful framework for rogue access point attack, written in Python, that allow and offer to security researchers, red teamers and reverse engineers  to mount a wireless network to conduct a man-in-the-middle attack.
 
