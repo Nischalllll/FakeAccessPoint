@@ -40,10 +40,6 @@
   * a recent version of Linux (we tested on **Ubuntu 18.04 LTS**);
   * please note: **Windows** is not **supported**.
 
-## Installation & Documentation
-
-Learn more about using [wp3 on the official site!](https://wifipumpkin3.github.io)
-
 ## License
 
 **Wp3** is licensed under the [Apche 2.0](./LICENSE.md).
